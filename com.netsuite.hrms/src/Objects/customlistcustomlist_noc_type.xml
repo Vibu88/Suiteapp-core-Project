@@ -1,0 +1,52 @@
+<customlist scriptid="customlistcustomlist_noc_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>NOC Type</name>
+  <customvalues>
+    <customvalue scriptid="val_102015_2772245_390">
+      <isinactive>F</isinactive>
+      <value>Employment NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102016_2772245_217">
+      <isinactive>F</isinactive>
+      <value>Travel NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102017_2772245_916">
+      <isinactive>F</isinactive>
+      <value>Family Sponsorship NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102018_2772245_134">
+      <isinactive>F</isinactive>
+      <value>Visa Application NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102019_2772245_108">
+      <isinactive>F</isinactive>
+      <value>Bank Loan NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102020_2772245_873">
+      <isinactive>F</isinactive>
+      <value>Driving License NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102021_2772245_788">
+      <isinactive>F</isinactive>
+      <value>Salary Certificate NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102022_2772245_910">
+      <isinactive>F</isinactive>
+      <value>Business Activity NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102023_2772245_625">
+      <isinactive>F</isinactive>
+      <value>Education/Study NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102024_2772245_862">
+      <isinactive>F</isinactive>
+      <value>General NOC</value>
+    </customvalue>
+    <customvalue scriptid="val_102025_2772245_628">
+      <isinactive>F</isinactive>
+      <value>NOC</value>
+    </customvalue>
+  </customvalues>
+</customlist>
